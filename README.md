@@ -1,4 +1,4 @@
-#About
+# About
 **8+ years experienced Full Stack Developer** with a passion for problem-solving and building efficient, scalable, and maintainable web applications. Expertise in **JavaScript**, **PHP**, **Python**, and **C#.NET**. Worked with popular frameworks and libraries like **React/Next.js**, **React Native**, **Vue/Nuxt.js**, **Angular**, **Node.js**, **PHP/Laravel**, **Python/Django**, and **C#/.NET Core**.
 
 - 👯 I’m looking to collaborate on **frontend development** or **full stack development** position
