@@ -49,6 +49,6 @@
 # Status
 
 <center>
-  <img width="600px" align="center" 
+  <img width="400px" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymedinawork&hide=html,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
 </center>
