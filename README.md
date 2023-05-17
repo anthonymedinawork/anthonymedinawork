@@ -1,9 +1,9 @@
 # About
 **8+ years experienced Full Stack Developer** with a passion for problem-solving and building efficient, scalable, and maintainable web applications. Expertise in **JavaScript**, **PHP**, **Python**, and **C#.NET**. Worked with popular frameworks and libraries like **React/Next.js**, **React Native**, **Vue/Nuxt.js**, **Angular**, **Node.js**, **PHP/Laravel**, **Python/Django**, and **C#/.NET Core**.
 
-- 👯 I’m looking to collaborate on **frontend development** or **full stack development** position
+- 👯 I’m looking to collaborate on **full stack development** or **Mobile development** position
 - 🤔 I’m looking for help with **Machine Learning**
-- 💬 Ask me about **React, Next.js, Angular, Node, JS, MUI, Tailwind CSS, Bootstrap**
+- 🛴 ♟️ 🎸 🏊‍♂️ lover
 
 # Skills
 <p align="center">
