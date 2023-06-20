@@ -46,9 +46,4 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="45" />
 </p>
 
-# Status
 
-<center>
-  <img width="400px" align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymedinawork&hide=html,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
-</center>
